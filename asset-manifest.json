@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/svevacontestabile.github.io/static/css/main.a85c8a04.css",
+    "main.js": "/svevacontestabile.github.io/static/js/main.cefe1663.js",
+    "index.html": "/svevacontestabile.github.io/index.html",
+    "main.a85c8a04.css.map": "/svevacontestabile.github.io/static/css/main.a85c8a04.css.map",
+    "main.cefe1663.js.map": "/svevacontestabile.github.io/static/js/main.cefe1663.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a85c8a04.css",
+    "static/js/main.cefe1663.js"
+  ]
+}
